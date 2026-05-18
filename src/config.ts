@@ -1,38 +1,38 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Kabilan Kathiravan",
+  title: "Computer Science Student",
+  description: "Portfolio website of Kabilan Kathiravan",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "kabilankathiravan949@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/kabilankks",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am currently pursuing degree in Networking in University Teknikal Malaysia Melaka (UTeM), skilled in setting up and managing networks, troubleshooting issues, and ensuring security. During my studies, I gained hands-on experience with routers, switches, and firewalls, and learned how to configure both wired and wireless networks. I am eager to start my career IT and apply my networking knowledge in a real-world setting.",
+  skills: ["Javascript", "CiscoIOS", "Node.js", "AWS", "Docker", "Adobe Creative Cloud"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Cafeteria Food Ordering System",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "The Cafeteria Food Ordering System (C.F.O.S) is an Object-Oriented Programming project developed for Universiti Teknikal Malaysia Melaka (UTeM). It is a comprehensive digital application designed to streamline the food ordering process by connecting customers, kitchen staff, and management through a unified MySQL database.  Built using Java and the Model-View-Controller (MVC) architectural pattern , the system utilizes JavaFX for its responsive graphical user interface (GUI) and a JDBC driver for database connectivity.",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["JavaScript", "JavaFX", "MySQL"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "A.C.M.S: A/C Management System",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Monitoring A/C unit thru the use of IoT devices such as ESP32. This project's aim was to reduce the energy consumption of home use and commercial use A/C units. And we achieved that with flying colours; earning us Second Best Project Award in Politeknik Balik Pulau.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["VMWare", "YAML", "Home Assistant"],
     },
     {
-      name: "ExtensionKit",
+      name: "BAMS: Barber Shop Appointment Management System",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "The Barber Shop Appointment Management System is a console-based C++ application that works with a MySQL relational database. It is designed to replace the manual booking methods that small barber shops currently use. These manual practices lead to scheduling conflicts, make tracking each barber's revenue difficult, and hinder any business analysis",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["C++"],
     },
   ],
   experience: [
